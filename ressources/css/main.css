@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  overflow-x: hidden;
+  min-width: 100vw;
+  min-height: 100vh;
+  background: #222222;
+  color: #ffffff;
+  line-height: 161%;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.clear {
+  display: block;
+  clear: both;
+}
